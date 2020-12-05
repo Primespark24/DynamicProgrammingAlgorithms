@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 //fun array of 100 parties (0-100)
 int fun[101];
 //fee array of 100 parties (0-100)
@@ -63,10 +64,8 @@ int main()
 	int budget;
 	int parties;
 	//user inputs for total cash and amount of parties
-	cout << "Total Budget";
-	cin >> budget;
-	cout << "Number of Parties";
-	cin >> parties;
+	cout << "Total Budget and number of parties";
+	cin >> budget >> parties;
 
 	while(budget != 0 || parties != 0)
 	{	

@@ -41,7 +41,7 @@ int main()
 
 		int maxCoins = Result(monsters - 1, monsterCoins);
 
-		cout << "Case " << test << ": " << maxCoins;
+		cout << "Case " << test << ": " << maxCoins << "\n";
 	}
 	
 }
