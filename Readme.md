@@ -8,12 +8,12 @@
 
 # Programming Assignments (DO ALL)
 
-| SPOJ Problem                |                   |         |
-| ----------------------------|:-----------------:|:-------:|
-| SPOJ FARIDA - Iterative Solution |              | 30 pts  |
-| SPOJ FARIDA - Recursive Solution |              | 30 pts  |
-| SPOJ PARTY                  |                   | 40 pts  |
-| Total                       |                   | 100 pts  |
+| SPOJ Problem                     |      |         |
+| ---------------------------------|:----:|:-------:|
+| SPOJ FARIDA - Iterative Solution |   25 - no SPOJ png | 30 pts  |
+| SPOJ FARIDA - Recursive Solution |   25 - no SPOJ png | 30 pts  |
+| SPOJ PARTY                       |   35 - no SPOJ png | 40 pts  |
+| Total                            |   85 | 100 pts |
 
 ## Instructions:
 1. Use git to clone this the LM folder from Whitgit to a local machine 
